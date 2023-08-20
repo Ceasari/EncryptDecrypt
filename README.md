@@ -1,6 +1,6 @@
-# Video to Audio Converter
+# EncryptDecrypt
 
-A simple and lightweight Python script that allows users to extract audio from a video file. It prompts the user to input the path to the video file and then extracts the audio, saving it as an MP3 file.
+EncryptDecrypt is a simple command-line tool that allows users to encrypt and decrypt files using a specified password. This tool leverages the AES encryption standard via the `pyAesCrypt` library.
 
 ## Requirements
 
@@ -9,10 +9,14 @@ A simple and lightweight Python script that allows users to extract audio from a
 
 ## Installation
 
-1. Clone the repository `git clone https://github.com/Ceasari/AudioFromVideo.git`
+1. Clone the repository `git clone https://github.com/Ceasari/EncryptDecrypt.git`
 2. Install dependencies `pip install -r requirements.txt`.
 3. Run the app `main.py`.
 4. Follow the prompt to enter the path to your video file, and the script will extract the audio and save it as an MP3 file in the same directory as the original video.
+
+## Security Note
+
+Please remember to keep your password secure and do not use this tool for any illegal activities.
 
 ## Contributing:
 
