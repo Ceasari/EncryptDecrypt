@@ -12,7 +12,7 @@ EncryptDecrypt is a simple command-line tool that allows users to encrypt and de
 1. Clone the repository `git clone https://github.com/Ceasari/EncryptDecrypt.git`
 2. Install dependencies `pip install -r requirements.txt`.
 3. Run the app `main.py`.
-4. Follow the prompt to enter the path to your video file, and the script will extract the audio and save it as an MP3 file in the same directory as the original video.
+4. Follow the prompt to enter the path to your file, and the script will extract and save it as en/decrypt in the same directory as the original one.
 
 ## Security Note
 
